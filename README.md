@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Hoang!
+
+
+---
+
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50" /> <img 
+src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo"  width="50" height="50" />
+
+---
 
 <!--
 **hoang227/hoang227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
