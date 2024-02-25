@@ -10,6 +10,8 @@
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
     alt="Javascript logo"
+    height="50"
+    width="50"
   >
   <figcaption>Javascript</figcaption>
 </figure>
