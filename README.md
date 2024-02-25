@@ -6,7 +6,7 @@
 
 🧰 Toolbox
 
-<figure class="image w-50 h-50">
+<figure class="image">
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
     alt="Javascript logo"
