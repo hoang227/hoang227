@@ -6,12 +6,12 @@
 
 🧰 Toolbox
 
-{{% include image.html url="![/images/my-cat.jpg](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)" description="Javascript" %}}
-
 <figure class="image">
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
     alt="Javascript logo"
+    width="50"
+    height="50"
   >
   <figcaption>Javascript</figcaption>
 </figure>
