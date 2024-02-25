@@ -6,12 +6,10 @@
 
 🧰 Toolbox
 
-<figure class="image">
+<figure class="image w-50 h-50">
   <img
     src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
     alt="Javascript logo"
-    width="50"
-    height="50"
   >
   <figcaption>Javascript</figcaption>
 </figure>
